@@ -53,3 +53,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+utterances:
+  repo: "pfaco/pfaco.github.io"
+  issue-term: "pathname"
+  label: "utteranc.es"
+  theme: "github-light"
